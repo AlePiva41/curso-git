@@ -1,3 +1,0 @@
-teste
-entendendo o HEAD
-Esta linha foi motificada no ramo teste
